@@ -2,9 +2,9 @@
   "name": "location-backend",
   "version": "1.0.0",
   "type": "module",
-  "main": "server.mjs",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.mjs"
+    "start": "node server.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
